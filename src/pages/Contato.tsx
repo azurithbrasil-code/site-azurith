@@ -303,7 +303,7 @@ export default function Contato() {
 
         /* ── CABEÇALHO DA ETAPA ── */
         .ct-step-head { padding: 0 2rem 1.4rem; }
-        .ct-step-num { font-family: 'Outfit', sans-serif; font-size: .48rem; letter-spacing: .28em; text-transform: uppercase; color: rgba(212,168,79,0.3); margin-bottom: .6rem; }
+        .ct-step-num { font-family: 'Outfit', sans-serif; font-size: .62rem; letter-spacing: .28em; text-transform: uppercase; color: rgba(212,168,79,0.3); margin-bottom: .6rem; }
         .ct-step-title { font-family: 'Cormorant Garamond', serif; font-size: 1.3rem; font-weight: 300; color: #F5F5F3; line-height: 1.22; margin-bottom: .5rem; letter-spacing: .01em; }
         .ct-step-sub { font-family: 'Outfit', sans-serif; font-size: .68rem; color: rgba(138,156,182,0.42); line-height: 1.5; }
 

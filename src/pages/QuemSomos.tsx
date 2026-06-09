@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 import { useNavigate } from "react-router-dom";
 import Diferenciais from "../components/Diferenciais";
 
-const WA = "https://wa.me/5534999366651?text=Olá.%20Obrigado%20por%20entrar%20em%20contato.%20%0AConte%20um%20pouco%20sobre%20o%20que%20deseja%20transformar%20em%20seu%20ambiente.";
+const WA = "https://wa.me/5534999366651?text=Ol%C3%A1.%20Gostaria%20de%20solicitar%20um%20atendimento.";
 const BG   = "#040B16";
 const BG2  = "#07111F";
 const GOLD = "#D4A84F";

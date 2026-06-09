@@ -3,7 +3,7 @@ import { MessageCircle } from "lucide-react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
-const WA = "https://wa.me/5534999366651";
+const WA = "https://wa.me/5534999366651?text=Ol%C3%A1.%20Gostaria%20de%20solicitar%20um%20atendimento.";
 const BG = "#050A14";
 
 const tendencias = [

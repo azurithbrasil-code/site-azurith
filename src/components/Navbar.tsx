@@ -107,7 +107,7 @@ export default function Navbar() {
               <div style={{ fontFamily: "'Cinzel', serif", fontWeight: 600, fontSize: "1.05rem", color: WHITE, letterSpacing: "0.18em", lineHeight: 1 }}>
                 AZURITH
               </div>
-              <div style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: "0.45rem", color: GOLD, letterSpacing: "0.22em", textTransform: "uppercase", marginTop: 4, lineHeight: 1 }}>
+              <div style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: "0.45rem", color: GOLD, letterSpacing: "0.22em", textTransform: "none", marginTop: 4, lineHeight: 1 }}>
                 seu lar, como deve ser.
               </div>
             </div>

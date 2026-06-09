@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
-const WA   = "https://wa.me/5534999366651?text=Olá.%20Obrigado%20por%20entrar%20em%20contato.%20%0AConte%20um%20pouco%20sobre%20o%20que%20deseja%20transformar%20em%20seu%20ambiente.";
+const WA   = "https://wa.me/5534999366651?text=Ol%C3%A1.%20Gostaria%20de%20solicitar%20um%20atendimento.";
 const BG   = "#040B16";
 const GOLD = "#D4A84F";
 
@@ -201,7 +201,7 @@ export default function Home() {
           .hm-ed-content { flex-direction: column; min-height: auto; }
           .hm-ed-text-block { flex: 1; padding: 3rem 24px 0.5rem; }
           .hm-ed-titulo { font-size: 2rem; }
-          .hm-ed-profissional-container { flex: none; width: 100%; height: 600px; overflow: hidden; mask-image: none; -webkit-mask-image: none; position: relative; margin-top: -220px; }
+          .hm-ed-profissional-container { flex: none; width: 100%; height: 4800px; overflow: hidden; mask-image: none; -webkit-mask-image: none; position: relative; margin-top: -100px; }
           .hm-ed-profissional { position: absolute; bottom: 0; left: 0; right: 0; height: 100%; }
           .hm-ed-profissional img { height: 100%; width: 100%; object-fit: contain; object-position: bottom center; }
           .hm-inspire { padding: 4rem 24px; }
@@ -264,7 +264,7 @@ export default function Home() {
             <p className="hm-ed-label">Quem somos</p>
             <h2 className="hm-ed-titulo">Organização, cuidado e acabamento em cada detalhe.</h2>
             <div className="gold-line" />
-            <p className="hm-ed-texto">Acreditamos que pinturas, reformas e revitalizações devem ser conduzidas com organização, estética e respeito ao ambiente. Atuamos em Uberlândia e região executando projetos residenciais e comerciais com planejamento, atenção aos detalhes e execução cuidadosa.</p>
+            <p className="hm-ed-texto">Acreditamos que a prestação de serviços deve ser conduzida com organização, atenção aos detalhes e respeito ao ambiente. Atuamos em Uberlândia e região oferecendo soluções para ambientes residenciais e comerciais, sempre com planejamento, acompanhamento cuidadoso e compromisso com a qualidade em cada etapa.</p>
           </div>
           <div className="hm-ed-profissional-container">
             <div className="hm-ed-profissional">
