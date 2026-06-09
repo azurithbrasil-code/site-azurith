@@ -108,7 +108,7 @@ export default function Navbar() {
                 AZURITH
               </div>
               <div style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: "0.45rem", color: GOLD, letterSpacing: "0.22em", textTransform: "none", marginTop: 4, lineHeight: 1 }}>
-                seu lar, como deve ser.
+                Seu lar, como deve ser.
               </div>
             </div>
           </button>
