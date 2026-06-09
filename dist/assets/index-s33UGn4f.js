@@ -288,7 +288,7 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
           .hm-ed-content { flex-direction: column; min-height: auto; }
           .hm-ed-text-block { flex: 1; padding: 3rem 24px 0.5rem; }
           .hm-ed-titulo { font-size: 2rem; }
-          .hm-ed-profissional-container { flex: none; width: 100%; height: 480px; overflow: hidden; mask-image: none; -webkit-mask-image: none; position: relative; margin-top: -100px; }
+          .hm-ed-profissional-container { flex: none; width: 100%; height: 380px; overflow: hidden; mask-image: none; -webkit-mask-image: none; position: relative; margin-top: -100px; }
           .hm-ed-profissional { position: absolute; bottom: 0; left: 0; right: 0; height: 100%; }
           .hm-ed-profissional img { height: 100%; width: 100%; object-fit: contain; object-position: bottom center; }
           .hm-inspire { padding: 4rem 24px; }
