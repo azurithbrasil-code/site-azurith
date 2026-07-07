@@ -9,7 +9,7 @@ const BG = "#040B16";
 const processo = [
   { num: "01", titulo: "Entendimento da necessidade", texto: "Compreendemos o objetivo, o espaço e o momento do projeto. Ouvimos antes de propor qualquer solução." },
   { num: "02", titulo: "Planejamento técnico",        texto: "Orientamos soluções adequadas, definimos escopo, materiais e prazos com clareza antes de iniciar." },
-  { num: "03", titulo: "Execução organizada",         texto: "Critério, proteção dos ambientes, organização do canteiro e atenção ao detalhe em cada etapa." },
+  { num: "03", titulo: "Execução organizada",         texto: "Critério técnico, proteção dos ambientes, organização do canteiro e atenção aos detalhes em cada etapa." },
   { num: "04", titulo: "Entrega e revisão",           texto: "Finalização cuidadosa, revisão completa e acompanhamento do resultado até a sua satisfação." },
 ];
 

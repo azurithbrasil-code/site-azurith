@@ -264,7 +264,7 @@ export default function Home() {
             <p className="hm-ed-label">Quem somos</p>
             <h2 className="hm-ed-titulo">Organização, cuidado e acabamento em cada detalhe.</h2>
             <div className="gold-line" />
-            <p className="hm-ed-texto">Acreditamos que a prestação de serviços deve ser conduzida com organização, atenção aos detalhes e respeito ao ambiente. Atuamos em Uberlândia e região oferecendo soluções para ambientes residenciais e comerciais, sempre com planejamento, acompanhamento cuidadoso e compromisso com a qualidade em cada etapa.</p>
+            <p className="hm-ed-texto">Acreditamos que a prestação de serviços deve ser conduzida com organização, atenção aos detalhes e respeito ao ambiente. Atuamos em Uberlândia e região oferecendo soluções com planejamento, acompanhamento cuidadoso e compromisso com a qualidade em cada etapa.</p>
           </div>
           <div className="hm-ed-profissional-container">
             <div className="hm-ed-profissional">
