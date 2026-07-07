@@ -85,7 +85,7 @@ export default function Home() {
         .hm-hero-inner { max-width: 520px; display: flex; flex-direction: column; align-items: center; text-align: center; }
         .hm-logo { width: 260px; height: 260px; object-fit: contain; display: block; margin-bottom: -55px; filter: brightness(1.1); animation: fadeSlideUp 1s ease both; }
         .hm-hero-title { font-family: 'Cinzel', serif; font-size: 4.2rem; font-weight: 300; letter-spacing: 0.08em; color: #F5F5F3; margin-bottom: 4px; line-height: 0.95; animation: fadeSlideUp 1s ease 0.1s both; }
-        .hm-hero-subtitle { font-family: 'Cormorant Garamond', serif; font-style: italic; font-size: 1.15rem; color: ${GOLD}; margin-bottom: 1rem; letter-spacing: 0.06em; animation: fadeSlideUp 1s ease 0.2s both; }
+        .hm-hero-subtitle { font-family: 'Lato', sans-serif; font-style: normal; text-transform: uppercase; font-size: 0.95rem; color: ${GOLD}; margin-bottom: 1rem; letter-spacing: 0.14em; animation: fadeSlideUp 1s ease 0.2s both; }
         .hm-hero-desc { font-family: 'Outfit', sans-serif; font-size: 0.88rem; line-height: 1.95; color: #8A9CB6; max-width: 340px; margin-bottom: 2.2rem; letter-spacing: 0.02em; animation: fadeSlideUp 1s ease 0.3s both; }
         .hm-hero-btns { display: flex; flex-direction: column; gap: 0.8rem; align-items: center; width: 100%; animation: fadeSlideUp 1s ease 0.42s both; }
         .hm-hero-btn { display: inline-flex; align-items: center; gap: 0.55rem; padding: 14px 36px; border: 1px solid rgba(212,168,79,0.55); color: ${GOLD}; text-decoration: none; font-family: 'Cormorant Garamond', serif; letter-spacing: 0.18em; font-size: 0.66rem; text-transform: uppercase; transition: all 0.35s ease; background: rgba(255,255,255,0.01); backdrop-filter: blur(4px); width: 100%; max-width: 240px; justify-content: center; }
@@ -199,9 +199,9 @@ export default function Home() {
           .hm-hero-desc { font-size: 0.88rem; max-width: 100%; }
           .hm-editorial { min-height: auto; }
           .hm-ed-content { flex-direction: column; min-height: auto; }
-          .hm-ed-text-block { flex: 1; padding: 3rem 24px 0.5rem; }
+          .hm-ed-text-block { flex: 1; padding: 3rem 24px 2rem; }
           .hm-ed-titulo { font-size: 2rem; }
-          .hm-ed-profissional-container { flex: none; width: 100%; height: 380px; overflow: hidden; mask-image: none; -webkit-mask-image: none; position: relative; margin-top: -100px; }
+          .hm-ed-profissional-container { flex: none; width: 100%; height: 380px; overflow: hidden; mask-image: none; -webkit-mask-image: none; position: relative; margin-top: 0; }
           .hm-ed-profissional { position: absolute; bottom: 0; left: 0; right: 0; height: 100%; }
           .hm-ed-profissional img { height: 100%; width: 100%; object-fit: contain; object-position: bottom center; }
           .hm-inspire { padding: 4rem 24px; }

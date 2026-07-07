@@ -42,7 +42,7 @@ export default function Footer() {
         }
         .hm-footer-brand-text { display: flex; flex-direction: column; }
         .hm-footer-brand h3 { font-family: 'Cinzel', serif; font-size: 1.4rem; font-weight: 300; letter-spacing: 0.16em; color: #F5F5F3; margin: 0; line-height: 1; }
-        .hm-footer-slogan { font-family: 'Cormorant Garamond', serif; font-style: italic; color: ${GOLD}; font-size: 0.75rem; letter-spacing: 0.06em; margin-top: 0.3rem; }
+        .hm-footer-slogan { font-family: 'Lato', sans-serif; font-style: normal; text-transform: uppercase; color: ${GOLD}; font-size: 0.62rem; letter-spacing: 0.12em; margin-top: 0.35rem; }
         .hm-footer-line { width: 36px; height: 1px; background: rgba(212,168,79,0.45); margin-bottom: 1.2rem; }
         .hm-footer-text { font-family: 'Outfit', sans-serif; font-size: 0.82rem; line-height: 1.95; color: rgba(245,245,243,0.45); max-width: 300px; }
         .hm-footer-column { display: flex; flex-direction: column; gap: 0; padding-top: 0.4rem; }
